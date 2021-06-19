@@ -1,7 +1,7 @@
 # BOJ
 ### by cog25
 
-- Code Snippet (`int main`)
+- VsCode Snippet (`int main`)
 - VSCode Run&Debug
-- WSL-2(Ubuntu)
+- On Ubuntu
 - g++

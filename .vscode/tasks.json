@@ -12,9 +12,10 @@
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}.out",
+                "-std=gnu++17",
                 // execute .out file
-                "&&",
-                "${fileDirname}/${fileBasenameNoExtension}.out",
+                // "&&",
+                // "${fileDirname}/${fileBasenameNoExtension}.out",
                 // file input
                 // "<",
                 // "${fileDirname}/sample_input.txt",

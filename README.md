@@ -1,7 +1,7 @@
 # BOJ
 ### by cog25
 
-- VsCode Snippet (`int main`)
+- snippet (can call by `int main`)
 - VSCode Run&Debug
-- On Ubuntu
-- g++
+- running on unix-like system
+- using g++
